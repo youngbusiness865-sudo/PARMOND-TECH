@@ -1,0 +1,6 @@
+{
+  "name": "PARMOND TECH",
+  "description": "Tecnologia, Inteligência Artificial e conhecimento digital em um só lugar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
